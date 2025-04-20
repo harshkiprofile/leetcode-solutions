@@ -8,3 +8,4 @@ Solutions to Leetcode problems in **Python** and **Go**.
 | [0125](https://leetcode.com/problems/valid-palindrome/) | Valid Palindrome | [Python](125-valid-palindrome/solution.py) | [Go](125-valid-palindrome/solution.go) |
 | [0014](https://leetcode.com/problems/longest-common-prefix/) | Longest Common Prefix | [Python](14-longest-common-prefix/solution.py) | [Go](14-longest-common-prefix/solution.go) |
 | [0205](https://leetcode.com/problems/isomorphic-strings/) | Isomorphic Strings | [Python](205-isomorphic-strings/solution.py) | [Go](205-isomorphic-strings/solution.go) |
+| [0242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram | [Python](242-valid-anagram/solution.py) | [Go](242-valid-anagram/solution.go) |
